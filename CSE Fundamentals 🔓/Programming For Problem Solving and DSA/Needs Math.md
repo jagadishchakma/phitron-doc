@@ -1,0 +1,68 @@
+# C
+- #include<math.h>
+- .................... absolute value
+- abs();
+- labs();
+- fabs();
+- ................... expeonential and logarithmic function
+- exp();
+- log();
+- log10();
+- .................... Power function
+- pow();
+- ...................... square root
+- sqrt();
+- ....................... trigonomatric function
+- sin();
+- cos();
+- tan();
+- __________________ ...................... rounding function
+- ceil();
+- floor();
+- round();
+- ....................... random number generation
+- rand();
+- srand();
+- ....................... constant
+- M_PI
+- ........................ others
+- isnan()
+# C++
+- #include<cmath.h>
+- .................... absolute value
+- abs();
+- labs();
+- fabs();
+- ................... expeonential and logarithmic function
+- exp();
+- log();
+- log10();
+- .................... Power function
+- pow();
+- ...................... square root
+- sqrt();
+- ....................... trigonomatric function
+- sin();
+- cos();
+- tan();
+- __________________ ...................... rounding function
+- ceil();
+- floor();
+- round();
+- ....................... random number generation
+- rand();
+- srand();
+- ....................... constant
+- M_PI
+- ....................... others
+- isnan();
+# JS
+- Math.abs()
+- Math.ceil()
+- Math.floor()
+- Math.round()
+- Math.sqrt()
+- Math.pow()
+- Math.random()
+- Math.PI
+- isNaN()

@@ -1,0 +1,13 @@
+## Key Points
+- A balance BST.
+- Automatic Sorted.
+- Automatic Duplicate Remove.
+- Automatice Searched.
+- ...........Create.........
+	- set\<data_type> name;
+- ..........Insert............
+	- myset.insert(value);
+- .........Traverse.........
+	- for(auto it=myset.begin(); it != myset.end(); it++);
+- ............Check Exists or Not.......
+	- myset.count("key");

@@ -1,0 +1,55 @@
+## Declare
+- const array = new Array();
+- const array = [];
+## Behind The Scene
+- How Javascript array store different data or custom data in a single array at a time?
+	- Behind the scene Javascript engine uses a combination of hidden classes, transition trees, and tagged values to efficiently handle multiple data types.
+- Why Javascript array is a Object?
+	- Behind the scene Javascript array multiple data type handle using hidden classes mean a object and object mean there have been some built - in method and property.
+		- ==Property==
+			- array.length
+		- ==Methods==
+			- mutation:
+				- ==array.concat(array2,array3...);== return new array after concat
+				- ==array.copyWithin(target,start,end);== no return, copy withing array
+				- ==array.fill(value,start,end);== no return, fill with value start to end index
+				- ==array.join(separator);== return new array, default separator is comma(,).
+				- ==array.pop();== return remove element, remove last element.
+				- ==array.push(values);== return new array length, add element at the last.
+				- ==array.reduce(callback(acc,item,arr,idx)=>operation,init);== return single result. reduce first to last.
+				- ==array.reduceRight(callback(acc,item,arr,idx)=>operation,init);== return single value, reduce last to first.
+				- ==array.reverse();== return new array, reversed array last to first.
+				- ==array.shift();== return remove element, remove first element.
+				- ==array.unshift(values);== return new array length, add element at the first.
+				- ==array.slice(start,end);== return new array, return sliced elements array.
+				- ==aray.slice(-value);== return new array, return from last value elements.
+				- ==array.sort();== return sorted array.
+				- ==array.splice(start,deleteCount,item1,item2...)== return new array, return removed element array.
+				- ==array.toLocaleString();== return string values
+				- 
+			- like object:
+				- ==array.entries();== return key-value paris array.iterate using for..of
+				- ==array.keys();== return indexs of element. iterate using for..of
+				- ==array.values();== return values of element, iterate using for..of
+			- filter:
+				- ==array.every(callback(element,index,array)=>condition);== return boolean if every element fullfill the condition.
+				- ==array.some(callback(element,index,array)=>condition)== return boolean if at least one element fullfill the condition.
+				- ==array.filter(callback(element,index,array)=>condition);== return new array whose value is fullfill the condition.
+				- ==array.find(callback(element,index,array)=>condition);== return the condition fullfill first element. if not return undefined.
+				- ==array.findIndex(callback(element,index,array)=>condition); ==return the condition fullfill first element index. If not return -1.
+				- ==array.findLast(callback(element,index,array)=>condition); ==return the condition fullfill last element. If not return undefined.
+				- ==array.findLastIndex(callback(element,index,array)=>condition);== return the condition fullfill last element index. If not return -1.
+			- flatting:
+				- ==array.flat(depth);== return new array with mixing depth sub array.
+				- ==array.flatMap(callback(element,index,array)=>[operation]);== return new array with mixing flat->map system.
+			- iterate:
+				- ==array.forEach(callback(element,index,array)=>operation);== no return or undefined return, iterate array.
+				- ==array.map(callback(element,index,array)=>operation);== return or undefined array return, iterate array.
+				- 
+			- Find:
+				- ==array.includes(searchValue);== return boolean find or not the search Value.
+				- ==array.indexOf(searchValue);== return search value first index.if not found return -1.
+				- ==array.lastIndexOf(searchValue);== return search value most last value index. if not return -1.
+				- 
+	- Behind the scene Javascript array always store into the heap memory means dynamic.
+		- const array = [] convert into the const array  = new Array();

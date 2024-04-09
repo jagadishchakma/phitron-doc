@@ -1,0 +1,18 @@
+## Key Points
+- Map is key value pair array or data structure.
+- It's not have index.
+- Key must be string.
+- But value anything type accepted.
+- Map stored key value parin value unserialed way.
+- .............Declare...........
+	- map\<string,type> map_name;
+- ............Insert................
+	- map_name.insert({pair});
+	- map_name\["key"] = value;
+- ...........Traverse............
+	- Traverse using iterator. Because it's a pointer not index.
+	- for(auto it=mymap.begin();it != mymap.end(); it++)
+- ...........Access Key..........
+	- map_name\["key"];
+- ............Check Exists or Not.......
+	- map_name.count("key");

@@ -1,0 +1,32 @@
+# C
+- not have
+# C++
+- " " string uses;
+- string a = "";
+- getline(cin,a);
+- ##### Method
+	- ......capacity.......
+	- str.size() // get size
+	- str.max_size() // get maximum capcity size
+	- str.capacity() // increase 2x based on size
+	- str.clear() // clear string
+	- str.empty() // check empty or not
+	- .........access.........
+	- str\[i] // access at index
+	- str.at(i) // access at index
+	- str.back() // access last index
+	- str.front() // access first index
+	- ...........modifiers..........
+	- str+=str // concatenation
+	- str.append(str) // concatenation
+	- str.push_back(str) // last postion index
+	- str.pop_back() // last position removed
+	- str.assign(str) // assing str
+	- str.erase(startIndex,endIndex) // erase or remove str
+	- str.replace(start,howChar,newStr) // remove and add str
+	- str.insert(start,newStr) // not removed just insert str
+	- ........iterator..........
+	- str.begin() // begin pointer
+	- str.end() // last pointer
+# JS
+- let a = " '';

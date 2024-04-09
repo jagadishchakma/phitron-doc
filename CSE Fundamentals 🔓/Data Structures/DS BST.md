@@ -1,0 +1,35 @@
+## Key Points
+- BST is a binary tree data structure but it is shorted.
+- ........................
+- BST = Binary Tree and Binary Search
+- BST = BST Search 
+- BST = Duplicate Value Handle
+- BST = Array to BST Create
+- BST = Node Insert
+- .........................
+- node->left < node;
+- node->right > node;
+- In BST does not have same value;
+- ........................ 
+- BST use for binary search
+- BST Time Complexity log(n);
+- ...........how to handle duplicate value................
+- Using freequency array
+- Duplicate value just counted. not inserted
+- .......................BST Search..............................
+- using recursion
+- boolean return
+- if = node == null = return false
+- if = node->val == x = return true
+- if = x < node->val == root->left
+- if = x > node->val == root->right
+- ......................BST Insert.....................................
+- using recursion
+- not return
+- if = node->left > x == if= node->left == NULL = node->left == new node
+- if = node->right < x == if = node->right == NULL = node->right == new node
+- ........................Prerequisites................................
+- Group of Container
+- Linked Lists
+- Binary Search
+- Binary Tree

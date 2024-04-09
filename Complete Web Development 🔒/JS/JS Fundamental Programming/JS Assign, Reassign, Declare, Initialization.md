@@ -1,0 +1,15 @@
+- With CSE:
+	- Assign
+		- age = 40;
+	- Declare
+		- int age;
+		- int myfunc();
+	- Reassign
+		- age = 40;
+		- age = 50;
+	- Initialize
+		- int age = 40;
+		- int myfunc(){};
+- Javascript dynamic high level language:
+	- let for coming dynamic modularity or global context system in browser.
+	- const for coming developer freindly.

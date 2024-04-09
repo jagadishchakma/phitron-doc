@@ -1,0 +1,35 @@
+## Declare
+- var num1 = 12;
+- var num2 = 12.23;
+## Behind The Scene 
+- JS no needs to declare number(int,float,double) data type:
+	- JS Engine automatically recognize data type.
+	- JS Engine then threads a ==Number== class template for this number data and create a ==Number== built in object.
+		- as well as:
+			- also JS Engine threads a Global ==Number== object.
+	- JS Engine then create ==some built-int function or method== for manipulate number data in this class, and uses c++ math header file or something related header file in this class. 
+		- ==Number Property:
+			- Number.MAX_VALUE;
+			- Number.MIN_VALUE;
+			- Number.POSITIVE_INFINITY;
+			- Number.NEGETIVE_INFINITY;
+			- Number.NaN or NaN;
+		- ==Number Methods:
+			- Number.isFinite(value) or isFinite(value);
+			- Number.isInteger(value) or isInteger(value);
+			- Number.isNaN(value) or isNaN(value);
+			- Number.isSafeInteger(value) or isSafeInteger(value);
+			- Number.parseFloat(value) or parseFloat(value);
+			- Number.parseInt(value) or parseInt(value);
+			- Number.toFixed(number,digits) or  number.toFixed(digits);
+			- number.toString();
+	- JS Engine then into the class detective number ==type(int,float,double,long long)== and according to manage memory. 
+	- JS Engine memory manage means to store number data in ==stack memory or heap memory==  for primitive  or reference values;
+		- ==Stack memory store:
+			- let num = Number(12);
+			- let num = 21;
+			- access this value:
+				- console.log(num);
+		- ==Heap memory store:
+			- let num = new Number(12);
+			- console.log(num.valueOf());

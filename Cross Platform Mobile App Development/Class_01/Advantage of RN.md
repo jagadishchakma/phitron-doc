@@ -1,0 +1,11 @@
+- You get native iOS and Android app at the same time.
+- Saves and cost.
+- Relatively very easy to start.
+- React & Javascript.
+- Massive Developer Community.
+- Development experience and tools.
+- Backed by big companies like Facebook and Microsoft.
+- Code reuse.
+- Shift between React Web and Mobile.
+- High demand in the job market.
+- Who are using react native? https://reactnative.dev/showcase

@@ -1,0 +1,29 @@
+- ...................... introduction
+- is a system
+- data keep
+- data manage
+- data retrive
+- ........................ types of database
+- relational database
+- non-relational database
+- graph database
+- centralized database
+- cloud database
+- distributed database
+- .......................... some keywords
+- table - is table
+- record - is row
+- field - column name
+- value - row value
+- .......................... DBMS vs RDBMS
+- DBMS = data, user, hardware, software, cpu
+- system(software)
+- .......................... key, primary key
+- primary key - unique field
+- composite primary key - multiple unique field
+- foreign key - another table use primary key
+- ........................... relation
+- one to one - one id to one id
+- one to many - one id to many course
+- many to many - many student to many course
+- 

@@ -1,0 +1,23 @@
+- With CSE:
+	- Primitive data types
+		- Number
+		- String
+		- Boolean
+		- undefined
+		- null
+		- Symbol
+	- composite or reference data type
+		- object 
+		- array
+	- special data type
+		- function
+	- date data type
+		- date
+- JS Dynamic Typing:
+	- JS engine automatically recognized data type based on value. He is not to necessary mention data type like c, c++.
+- JS dynamic high level language:
+	- js engine automatic recognize data type not to necessary mention of type.
+	- js " ", ' ', \` \` for dynamic string with some advantage.
+	- js some data type have a object for dynamic that writhen captial letter of first letter with some advantage and some data type behind the scene uses these object for converted machine code as a low level language. That's why we got some built in methods for some data type manipulation. That's why we can't declare data type data type in the varaible. Because js engine conditon based recognized this type then behind the scene this value store in this type object then convert to actual data type for computer.
+	- we are declare var age = 10; js engine then spread condition which actual type for checking; js engine then takes this value create a new object using this value and predefined method written for manipulation this data type like c++ stl. js engine then from this object converted into the machine code for understanding this data type and allocate memory like c memory space .
+	- that's why when we called age.toFixed() behind the scend js engine called Number object using condion checking .

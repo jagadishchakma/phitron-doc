@@ -1,0 +1,3 @@
+- **Prime:** Only two factors. 1 and itself. 7 = 7,1
+- **Composite:** There exists at least one factor other than 1 and itself. 12 = 1,12,2,3,4,6 
+- What about 1? Is it a prime or composite? It is a spacial case. Neither prime nor composite.

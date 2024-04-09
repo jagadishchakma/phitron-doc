@@ -1,0 +1,3 @@
+- React Native is a Javascript framework for writing real, native mobile apps for both iOS and android.
+- Based on Facebook's React library, instead of targeting browser, it targets mobile platforms. Released in 2015.
+- We can build Android + iOS + Windows + Web + Desktop Apps.

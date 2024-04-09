@@ -1,0 +1,36 @@
+# C
+- Assign
+	- age = 40;
+- Declare
+	- int age;
+	- int myfunc();
+- Reassign
+	- age = 40;
+	- age = 50;
+- Initialize
+	- int age = 40;
+	- int myfunc(){};
+# C+
+- Assign
+	- age = 40;
+- Declare
+	- int age;
+	- int myfunc();
+- Reassign
+	- age = 40;
+	- age = 50;
+- Initialize
+	- int age = 40;
+	- int myfunc(){};
+# JS
+- Assign
+	- age = 40;
+- Declare
+	- int age;
+	- int myfunc();
+- Reassign
+	- age = 40;
+	- age = 50;
+- Initialize
+	- int age = 40;
+	- int myfunc(){};

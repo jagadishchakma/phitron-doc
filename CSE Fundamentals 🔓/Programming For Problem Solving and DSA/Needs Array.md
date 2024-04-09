@@ -1,0 +1,34 @@
+# C
+- type name[] = {1,2,3}
+- type name[size] = {1,2,3}
+- type name[size];
+- custom_insert
+- custom_remove
+- custom_reverse
+- custom_copy
+- sizeof(array,type);
+- default value 0
+- ==a array variable always indicates array first element address==
+- ==array always store on stack memory==
+# C++
+- type name[] = {1,2,3}
+- type name[size] = {1,2,3}
+- type name[size];
+- custom_insert
+- custom_remove
+- custom_reverse
+- custom_copy_from_two_array
+-  sizeof(array,type);
+- default value 0;
+-  ==a array variable always indicates array first element address==
+- ==array always store on stack memory==
+# JS
+- type name = [1,2,3]
+- type name = []
+- custom_insert
+- custom_remove
+- custom_reverse
+- custom_copy_from_two_array
+- a.length;
+- default value undefined
+- ==array always store on heap memory==

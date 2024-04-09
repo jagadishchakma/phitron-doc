@@ -1,0 +1,22 @@
+## Declare
+- var check = true;
+- var check = false;
+## Behind The Scene 
+- JS no needs to declare string(string,char) data type:
+	- JS Engine automatically recognize data type.
+	- JS Engine then threads a ==Boolean== class template for this string data and create a ==Boolean== built in object.
+		- as well as:
+			- also JS Engine threads a Global ==Boolean== object.
+	- JS Engine then create ==some built-in function or method== for manipulate boolean data in this class, and uses c++ boolean header file or something related header file in this class. 
+		- ==boolean Property:
+			- Boolean.prototype
+		- ==boolean Methods:
+			- bool.toString();
+			- bool.valuOf();
+	- JS Engine then into the class detective string ==type(bool)== and according to manage memory. 
+	- JS Engine memory manage means to store bool data in ==stack memory or heap memory==  for primitive  or reference values;
+		- ==Stack memory store:
+			- var bool = Boolean(true);
+			- var bool = false;
+		- ==Heap memory store:
+			- var bool = new Boolean(true);

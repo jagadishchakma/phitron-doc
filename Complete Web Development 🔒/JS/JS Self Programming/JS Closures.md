@@ -1,0 +1,4 @@
+- A closure is a function having access to the parent scope, even after the parent function has closed.
+- Closure ueses for private variable.
+- Closures remeber uses all  local and global variables.
+- 

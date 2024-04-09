@@ -1,0 +1,4 @@
+- 'undefined' is a primitive value automatically assigned to variables that have been declared but not initialized.
+- It is also default return value of functions that do not explicitly return a value.
+- When access an object property or an array element with a non-existing key or index, the result is 'undefined'.
+- Variables explicitly set to 'undefined' will hold that value until they are assigned a different value.

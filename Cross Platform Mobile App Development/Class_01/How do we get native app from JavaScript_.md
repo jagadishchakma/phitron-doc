@@ -1,0 +1,2 @@
+- Under the hood, react native components convert into core android and ios component.
+- Such as, View componenet convert into View on android and UIview on iOS.

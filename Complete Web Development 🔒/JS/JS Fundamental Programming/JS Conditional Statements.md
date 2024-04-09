@@ -1,0 +1,13 @@
+- Way to handle condition:
+	- If()
+	- if()...else
+	- if()...else if()...else if()...else
+- Specific handle condition:
+	- swith()
+- Single line handle condition:
+	- () ? ___ : ___
+- Key-words
+	- break;
+	- continue;
+	- case;
+	- default;

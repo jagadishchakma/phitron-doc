@@ -1,0 +1,15 @@
+# C
+- switch();
+- break;
+- case;
+- default;
+# C++
+- switch();
+- break;
+- case;
+- default;
+# JS
+- switch();
+- break;
+- case;
+- default;

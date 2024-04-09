@@ -1,0 +1,39 @@
+## Declare
+- var str = " ";
+- var str = ' ';
+- var str = ``;
+## Behind The Scene 
+- JS no needs to declare string(string,char) data type:
+	- JS Engine automatically recognize data type.
+	- JS Engine then threads a ==String== class template for this string data and create a ==String== built in object.
+		- as well as:
+			- also JS Engine threads a Global ==String== object.
+	- JS Engine then create ==some built-in function or method== for manipulate string data in this class, and uses c++ string header file or something related header file in this class. 
+		- ==String Property:
+			- string.length;
+		- ==String Methods:
+			- string.charAt(index);
+			- string.charCodeAt(index);
+			- string.concat(string1,string2,...);
+			- string.indexOf(searchValue,fromIndex);
+			- string.lastIndexOf(searchValue,fromIndex);
+			- string.slice(startIndex,endIndex);
+			- string.substring(startIndex,endIndex);
+			- string.substr(startIndex,length);
+			- string.toUpperCase();
+			- string.toLowerCase();
+			- string.trim();
+			- string.startsWith(searchString,position);
+			- string.endsWith(searchString,position);
+			- string.includes(searchString,position);
+			- string.split(separator,limit);
+			- string.replace(searchValue,replaceValue);
+			- string.match(regexp);
+			- string.search(regxp);
+	- JS Engine then into the class detective string ==type(string,char)== and according to manage memory. 
+	- JS Engine memory manage means to store string data in ==stack memory or heap memory==  for primitive  or reference values;
+		- ==Stack memory store:
+			- var a = String("Hello");
+			- var a = "Hello";
+		- ==Heap memory store:
+			- var a = new String("Hello");

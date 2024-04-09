@@ -1,0 +1,33 @@
+# Global Execution Context
+- ==Phase: Loading/Creation==
+	- window: global objct: create a global object
+	- this: window: create a object name this
+	- variable object: undefined: create a space in memory
+	- function object: function body reference goes to memory: create a space in memory
+	- scope chain
+- ==Phase: Execution
+	- variable: replace undefined with value
+	- function object: called function
+		- # Function Execution Context
+			- ==Phase: Loading/Creation==
+				- arguments: {}
+				- this: window: create a object name this
+				- variable object: undefined: create a space in memory
+				- function object: function body reference goes to memory: create a space in memroy.
+				- scope chain
+			- ==Phase: Execution==
+				- arguments: {}
+				- variable object: replace undefined with value
+				- function object: called function if return occured;
+	- scope chain
+# Call Stack
+- Follow the call stack data structure like recursion.
+- if return have then get out from this scope.
+- if not have return then JS egine automatically set a return value "undefined".
+# Key Points
+- var use loading phase with undefined value;
+- let, const avoid loading phase, only direct store in memory on execution phase.
+- hoisting
+- scope
+- closure
+- debugging

@@ -1,0 +1,3 @@
+- null is a special value that represents the intentional absence of any object value.
+- It is often explicitly assigned to variables or properties to signify the absense of a meaningfull object reference.
+- It is not automatically assigned by the JavaScript engine; you have to set a variable to 'null' explicitly.

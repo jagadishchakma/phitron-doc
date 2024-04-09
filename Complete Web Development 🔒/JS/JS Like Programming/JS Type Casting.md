@@ -1,0 +1,11 @@
+# ==Uses:==
+- ### Operator
+	- #### ==Number to String ==
+		- number + "" = converted to string
+- ## Number() Object
+	- #### ==Float to Integer==
+		- Number.parseInt(float_number);
+		- or parseInt(float_number);
+	- #### ==Integer to Float==
+		- Number.parseFloat(int_number);
+		- or parseFloat(int_number);

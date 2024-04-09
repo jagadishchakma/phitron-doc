@@ -1,0 +1,15 @@
+- #include<stdio.h>
+- printf()
+- scanf()
+- #include<string.h>
+- strlen()
+- strcmp()
+- strcpy()
+- #include<math.h>
+- ceil()
+- floor()
+- round()
+- sqrt()
+- pow()
+- #include<stdlib.h>
+- abs()

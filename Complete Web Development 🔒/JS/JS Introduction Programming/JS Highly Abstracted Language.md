@@ -1,0 +1,14 @@
+# Key Points
+- JavaScript is a highly abstracted programming language.
+- ## High Abstraction
+	- An abstraction is a way of ==hiding the implementation== details.
+	- An abstraction is a way of ==showing only the functionality== to the users.
+	- ### An example
+		- User does not know what is happening inside the ATM.
+		- He is simply getting the money by pushing buttons.
+- ## High Abstraction in JavaScript
+	- We don't have to handle ==resource management== and ==memory allocation==.
+	- We don't have to handle ==garbage collection.==
+	- Reduces details so that developers can ==focus on logic better.==
+	- Improves ==understandibility== as well as ==maintainability== of the code.
+	- 

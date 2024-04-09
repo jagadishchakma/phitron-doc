@@ -1,0 +1,4 @@
+- ==brute force== => means just problem solves without best way config.
+- ==TLE== => time limie exit.
+- Sequance of summation of serial number.
+- 

@@ -1,0 +1,10 @@
+- With CSE:
+	- vary+able = variable => that mean's can do change anytime;
+	- custom_name;
+	- var age;
+	- let age; 
+	- const moon; => constant value;
+	- variable name conventions:
+		- same
+- javascript dynamic high lavel language:
+	- not to require initialize data type, js engine automatically can recognize.

@@ -1,0 +1,15 @@
+- ......................... Query
+- Query - search
+- select query -> search base on field name
+- parameter query -> search base on field and value
+- crosstab query -> summery/group
+- unmatched query -> search not matching 
+- action query -> make,append,update,delete
+- ........................... query language
+- QUEL -> Query language
+- QBE -> Query By Language
+- SQL -> Structured query language
+- ............................ SQL
+- DML -> Data manipulation language -> select,insert,update,delete
+- DDL -> Data definition language -> create, append, drop
+- 

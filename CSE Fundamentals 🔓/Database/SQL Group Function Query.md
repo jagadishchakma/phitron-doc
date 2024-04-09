@@ -1,0 +1,4 @@
+- MAX() = ==select max(salary) from table_name;==
+- MIN() = ==select min(salary) from table_name;==
+- COUNT() = ==select count(salary or *) from table_name;
+- 

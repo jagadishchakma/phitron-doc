@@ -1,0 +1,1 @@
+- dividend by 2, if reminder is 0 then even, otherwise odd.
