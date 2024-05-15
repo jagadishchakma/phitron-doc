@@ -1,0 +1,8 @@
+- A database is essentially a systematic collection of data. It allows of the storage, retrieval, and management of data in a structured way.
+- # Types of Database
+- Relational Database
+- Non Relational Database
+- Graph Database
+- Centralized Database
+- Cloud Database
+- Distributed Database

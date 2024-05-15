@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a877e95aa0599d9",
+        "id": "b73cb7ea30e8ee6a",
         "type": "tabs",
         "children": [
           {
-            "id": "36e9dfbd3d22aa5f",
+            "id": "274af86755142c1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSE Fundamentals 🔓/Database/SQL Group Function Query.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 248.50961303710938
   },
   "right": {
     "id": "b1a06228f271ccec",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE Fundamentals 🔓/Database/SQL Group Function Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE Fundamentals 🔓/Database/SQL Group Function Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CSE Fundamentals 🔓/Database/SQL Group Function Query.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,43 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36e9dfbd3d22aa5f",
+  "active": "514d0f8b0e3e6001",
   "lastOpenFiles": [
-    "CSE Fundamentals 🔓/Database/SQL Query.md",
-    "CSE Fundamentals 🔓/Database/SQL Group Function Query.md",
-    "CSE Fundamentals 🔓/Database/MySQL.md",
-    "CSE Fundamentals 🔓/Database/MySQL with Basic Query.md",
-    "CSE Fundamentals 🔓/Database/Database.md",
-    "CSE Fundamentals 🔓/Database/Data vs Information.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg Dynamic Programming.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg BFS.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg Introduction.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg DSU.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg Floyd Warshall.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg Bellman Ford.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg Dijkstra.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg Cycle Detects.md",
-    "English USA/Spoken English Zero to Hero/Lesson 01.md",
-    "English USA/Spoken English Zero to Hero/Lesson 02.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg 2D Grid.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg DFS.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg Binary Search.md",
-    "CSE Fundamentals 🔓/Algorithms/Alg Linear Search.md",
-    "CSE Fundamentals 🔓/Data Structures/DS Graph.md",
-    "English USA/Passport to Grammer",
-    "English USA/Spoken English Zero to Hero",
-    "English USA",
-    "Complete Web Development 🔒/JS/JS Introduction Programming/JS Asynchronous Programming Language.md",
-    "Complete Web Development 🔒/JS/JS Introduction Programming/JS Single Threaded Language.md",
-    "Complete Web Development 🔒/JS/JS Self Programming/JS Promise.md",
-    "Complete Web Development 🔒/JS/JS Self Programming/JS Asynchronous - Threads, Synchronous, Blocking, Runtime Env, Engine, Call Stack, Web APi, Callback Queue, Event Loop, Callbacks, Promises, Async-Await.md",
-    "Complete Web Development 🔒/JS/JS Fundamental Programming/JS Built-in Methods.md",
-    "Complete Web Development 🔒/MySQL",
-    "Complete Web Development 🔒/JS/JS STL Data Structures",
-    "Complete Web Development 🔒/JS/JS Fundamental Programming/Untitled",
-    "Complete Web Development 🔒/JS/JS Dynamic Programming",
-    "Complete Web Development 🔒/JS/JS Dynamic Programming",
-    "Complete Web Development 🔒/React.js",
-    "CSE Fundamentals 🔓/STL For Programming"
+    "Untitled 1",
+    "CSE Javascript For Browser",
+    "CSE Python For Server",
+    "CSE  Python vs Javascript 🔓/Program OOP.md",
+    "CSE Fundamentals 🔓/Python World/Python OOP/Python OOP.md",
+    "CSE  Python vs Javascript 🔓/Program Data Type.md",
+    "CSE  Python vs Javascript 🔓/Program Math.md",
+    "CSE  Python vs Javascript 🔓/Program Dates.md",
+    "CSE  Python vs Javascript 🔓/Program JSON.md",
+    "CSE  Python vs Javascript 🔓/Program Error Handling.md",
+    "CSE  Python vs Javascript 🔓/Program Scope.md",
+    "CSE  Python vs Javascript 🔓/Program Package Manager.md",
+    "CSE  Python vs Javascript 🔓/Program Module.md",
+    "CSE  Python vs Javascript 🔓/Program Operator.md",
+    "CSE  Python vs Javascript 🔓/Program Functions.md",
+    "CSE  Python vs Javascript 🔓/Program Conditions.md",
+    "CSE  Python vs Javascript 🔓/Program Loops.md",
+    "CSE  Python vs Javascript 🔓/Program Variable.md",
+    "CSE  Python vs Javascript 🔓/Program Output.md",
+    "CSE  Python vs Javascript 🔓/Program Input.md",
+    "CSE  Python vs Javascript 🔓/Program Comment.md",
+    "CSE Fundamentals 🔓/Python World/Python OOP/Python Math.md",
+    "CSE Fundamentals 🔓/Python World/Python OOP/Python Operators.md",
+    "CSE Fundamentals 🔓/Python World/Python OOP/Python Input.md",
+    "CSE Development Py vs JS 🔓/Untitled",
+    "CSE Development Py vs JS 🔓/Raw Programming/Program Input.md",
+    "CSE Development Py vs JS 🔓/Raw Programming/Program Ouput",
+    "CSE Development Py vs JS 🔓/Raw Programming/Program Input",
+    "CSE Development Py vs JS 🔓/Raw Programming",
+    "CSE  Python vs Javascript 🔓",
+    "CSE Fundamentals 🔓/JavaScript/JS Module.md",
+    "CSE Fundamentals 🔓/JavaScript/JS Functions.md",
+    "CSE Fundamentals 🔓/JavaScript/JS Data Types.md",
+    "CSE Fundamentals 🔓/JavaScript",
+    "CSE Fundamentals 🔓/TypeScript",
+    "CSE Fundamentals 🔓/Bootstrap"
   ]
 }

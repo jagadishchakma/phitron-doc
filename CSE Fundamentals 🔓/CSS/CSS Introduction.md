@@ -1,0 +1,4 @@
+- CSS stands for cascading style sheets.
+- CSS describes how html elements are to be displayed on screen, paper, or in other media.
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once.
+- External Stylesheets are stored in CSS files.

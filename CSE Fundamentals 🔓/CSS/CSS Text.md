@@ -1,0 +1,1 @@
+- CSS has a lot of properties for formatting text.

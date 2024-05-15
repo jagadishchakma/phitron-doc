@@ -1,4 +1,0 @@
-# ==Uses:==
- - ## Operator
-	 - addition(+)
-	 - 

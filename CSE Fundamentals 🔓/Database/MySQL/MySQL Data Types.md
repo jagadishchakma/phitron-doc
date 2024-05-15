@@ -1,0 +1,14 @@
+- # Numeric Data Types
+- INT, FLOAT, DOUBLE, DECIMAL, NUMERIC
+- # String Data Types
+- CHAR(5), VARCHAR(9), TEXT
+- # Date Time Data Types
+- DATE, TIME, DATETIME, TIMESTAMP
+- # Boolean Data Types
+- BOOL, BOOLEAN
+- # Binary Data Types
+- BINARY(12232323)
+- For file save
+- # Set Type
+-  SET('A', 'b', 'c')
+- # BIT TYPE

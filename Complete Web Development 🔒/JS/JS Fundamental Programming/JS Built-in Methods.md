@@ -1,4 +1,0 @@
-- ==setTimeout(callback(),miliseconds)== // window.setTimeout() // global.setTimeout()
-- ==clearTimeout(timeoutId)== // window.clearTimeout() // global.clearTimeout()
-- ==setInterval(callback(),miliseconds)== // window.setInterval() // global.setInterval()
-- ==clearInterval(inervalId) ==// window.clearInterval() // global.clearInterval()

@@ -1,2 +1,0 @@
-- For height of statusbar: react-native-safe-area-context
-- 

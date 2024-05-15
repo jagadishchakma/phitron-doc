@@ -1,0 +1,1 @@
+- Icons can easily be added to your HTML page, by using an icon library.

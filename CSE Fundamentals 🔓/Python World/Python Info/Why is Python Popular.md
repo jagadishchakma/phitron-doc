@@ -1,0 +1,9 @@
+- Easy to learn & Strong Supportive Python Community
+- Python Libraries
+- Python For Automation
+- Python For Web Development ❤️❤️❤️❤️❤️❤️❤️
+- Python For Data Science & AI
+- Python For Computer Vision & NLP
+- Python For Data Analysis
+- Python For Cyber Security
+- Python For Game Development

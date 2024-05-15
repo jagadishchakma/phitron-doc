@@ -1,4 +1,0 @@
-- console.log();
-- console.log("something");
-- console.log("something1","something2", "something2");
-- console.log(age,study,"your name");
