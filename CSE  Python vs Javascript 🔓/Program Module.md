@@ -36,6 +36,7 @@ print(mymodule.language)
 ### Import From Another Folder
 ```python
 import package.module.module1 as module1
+from package.module.module1 import customFunction
 ```
 
 ---
@@ -87,6 +88,7 @@ console.log(lang);
 ### Import From Another Folder
 ```javascript
 import {language} from "./package/module/module1.js"
+
 ```
 
 ---

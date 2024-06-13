@@ -1,0 +1,33 @@
+- ### What is Django?
+	- is a web application framework.
+	- written by full python.
+	- followed MVT pattern.
+	- is batteries included framework.
+- ### Why we need to learn Django?
+	-  excellent documentation.
+	- high scalability.
+	- used by top MNCs
+		- instagram,dropbox,youtube,spotify,bitbucket
+		- MNCs = Multi National Company
+	- easy to learn.
+	- django made by OOP pattern
+	- we can integrate it
+		- web scraping,
+		- machine learning
+		- image processing
+		- scientific computing 
+- ### Unique Features of Django
+	- admin interface
+	- ORM-object relational mapping
+		- ORM is a technique that python code convert to sql for with database.
+	- URL routing
+	- template system
+	- form handling
+	- security features
+	- scalability
+- ### How does Django work?
+	- followed MVT pattern
+	- url->view->model <-view<-template
+	- Models = Database data
+	- View = request handler
+	- Template = html,css,javascript

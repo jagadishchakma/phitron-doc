@@ -1,0 +1,19 @@
+- ### Django Installation
+	- globally
+	- in virtual environment
+- ### What is virtual environment
+	- a tool that isolated django projects their specific needs package version
+- ### Why virtual environment?
+	- for different dependencies different project isolated setup
+- ### How does  a virtual environment work?
+	- ##### Step-01: installing virtual environment
+		- $ pip install pipenv
+		- already installed when installing python(pipenv)
+	- ##### Step-02: Test your installation
+		- $ pipenv --version
+	- ##### Step-03: Naming virtual environment:
+		- $ py -m venv room1
+	- ##### Step-04: Activating virtual environment:
+		- $ room1\\Scripts\\activate
+	- ##### Step-05: Deactive virtual environment:
+		- $ deactive

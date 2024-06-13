@@ -1,0 +1,8 @@
+- ### Step-01: Form Setp
+- must be add =  {% csrf_token %}
+- method must be = POST
+- must be add 'name' attribute
+- action setup = {% url 'route' %} if not have action so same route response it.
+- ### Step-02: Views Setup
+- hold data: request.POST.get(name)
+- hold data: request.POST.get(email)

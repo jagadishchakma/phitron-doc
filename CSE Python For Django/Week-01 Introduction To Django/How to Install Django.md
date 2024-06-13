@@ -1,0 +1,13 @@
+- ### Install Django
+	- ##### Globally
+		- $ pip install django
+	- ### in virtual environment
+		- activate virtual environment
+		- $pip install django
+	- ##### Check installation confirm
+		- $ djano-admin --version
+- ### Install Django Project
+	- $django-admin startproject myproject
+- ### Run Django Project
+	- Inside the project installation folder and run:
+	- $py manage.py runserver

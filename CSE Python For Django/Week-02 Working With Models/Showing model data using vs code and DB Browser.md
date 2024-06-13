@@ -1,0 +1,7 @@
+- search 'db browser for sqlite'
+- install
+- import sql file into db drowser
+- right click table and browse table
+- -----------------
+- search vs code extension 'sqlite'
+- install 'SQLite' and 'SQLite Viewer'

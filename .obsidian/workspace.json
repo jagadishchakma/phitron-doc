@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b73cb7ea30e8ee6a",
+        "id": "416a7c8ea0266981",
         "type": "tabs",
         "children": [
           {
-            "id": "274af86755142c1f",
+            "id": "5ab91f42f80cc53d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Login Decorator Add, settings.py.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.50961303710938
+    "width": 366.5096130371094
   },
   "right": {
     "id": "b1a06228f271ccec",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Login Decorator Add, settings.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Login Decorator Add, settings.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Login Decorator Add, settings.py.md"
+              }
             }
           }
         ]
@@ -138,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "514d0f8b0e3e6001",
+  "active": "5ab91f42f80cc53d",
   "lastOpenFiles": [
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Truncatewords, length filter.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Get Success Message.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Details class based view.md",
+    "CSE Python For Django/Week-02 Working With Models/Form Introduction.md",
+    "CSE Python For Django/Week-01 Introduction To Django/Working With Static Files Inside Project.md",
+    "CSE  Python vs Javascript 🔓/Program Data Types/String Data Type.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Filtering Model Data.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Working with media files.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/User password change using django built in function.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/User data change using django built in function.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Update class based view.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Create user form from frontend.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Logged in class view.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/User login using django built in functions.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Add asterisk sign in form.md",
+    "CSE Python For Django/Week-01 Introduction To Django/More DTL Filtering.md",
+    "CSE Python For Django/Week-01 Introduction To Django/Django Template Language(DTL).md",
+    "CSE Python For Django/Week-02 Working With Models/Django Built in Form Validators.md",
+    "CSE Python For Django/Week-02 Working With Models/Loop Many to Many Relationships Data.md",
+    "CSE Python For Django/Week-02 Working With Models/Edit Model Data In Frontend - Update.md",
+    "CSE Python For Django/Week-02 Working With Models/Creating form using model form.md",
+    "CSE Python For Django/Week-02 Working With Models/Introduction to model form in django.md",
+    "CSE Python For Django/Week-02 Working With Models/Django Built in Form Attributes and Widget.md",
+    "CSE Python For Django/Week-02 Working With Models/Adding Crispy Forms In Django.md",
+    "CSE Python For Django/Week-02 Working With Models/Some Built in Form Fields.md",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View/Create class based view.md",
+    "CSE Python For Django/Week-00 Backend Framework Tools",
+    "CSE Python For Django/Week-03 Authentication, Authorization and Class Based View",
+    "CSE Python For Django/Week-02 Working With Models",
+    "CSE Python For Django/Week-01 Introduction To Django",
+    "CSE  Python vs Javascript 🔓/Program Data Types",
     "Untitled 1",
     "CSE Javascript For Browser",
-    "CSE Python For Server",
-    "CSE  Python vs Javascript 🔓/Program OOP.md",
-    "CSE Fundamentals 🔓/Python World/Python OOP/Python OOP.md",
-    "CSE  Python vs Javascript 🔓/Program Data Type.md",
-    "CSE  Python vs Javascript 🔓/Program Math.md",
-    "CSE  Python vs Javascript 🔓/Program Dates.md",
-    "CSE  Python vs Javascript 🔓/Program JSON.md",
-    "CSE  Python vs Javascript 🔓/Program Error Handling.md",
-    "CSE  Python vs Javascript 🔓/Program Scope.md",
-    "CSE  Python vs Javascript 🔓/Program Package Manager.md",
-    "CSE  Python vs Javascript 🔓/Program Module.md",
-    "CSE  Python vs Javascript 🔓/Program Operator.md",
-    "CSE  Python vs Javascript 🔓/Program Functions.md",
-    "CSE  Python vs Javascript 🔓/Program Conditions.md",
-    "CSE  Python vs Javascript 🔓/Program Loops.md",
-    "CSE  Python vs Javascript 🔓/Program Variable.md",
-    "CSE  Python vs Javascript 🔓/Program Output.md",
-    "CSE  Python vs Javascript 🔓/Program Input.md",
-    "CSE  Python vs Javascript 🔓/Program Comment.md",
-    "CSE Fundamentals 🔓/Python World/Python OOP/Python Math.md",
-    "CSE Fundamentals 🔓/Python World/Python OOP/Python Operators.md",
-    "CSE Fundamentals 🔓/Python World/Python OOP/Python Input.md",
+    "CSE Python For Django",
     "CSE Development Py vs JS 🔓/Untitled",
-    "CSE Development Py vs JS 🔓/Raw Programming/Program Input.md",
-    "CSE Development Py vs JS 🔓/Raw Programming/Program Ouput",
-    "CSE Development Py vs JS 🔓/Raw Programming/Program Input",
-    "CSE Development Py vs JS 🔓/Raw Programming",
-    "CSE  Python vs Javascript 🔓",
-    "CSE Fundamentals 🔓/JavaScript/JS Module.md",
-    "CSE Fundamentals 🔓/JavaScript/JS Functions.md",
-    "CSE Fundamentals 🔓/JavaScript/JS Data Types.md",
-    "CSE Fundamentals 🔓/JavaScript",
-    "CSE Fundamentals 🔓/TypeScript",
-    "CSE Fundamentals 🔓/Bootstrap"
+    "CSE Development Py vs JS 🔓/Raw Programming/Program Ouput"
   ]
 }

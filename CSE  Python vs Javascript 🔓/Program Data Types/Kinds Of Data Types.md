@@ -1,5 +1,4 @@
 
-
 --- start-multi-column: ID_dgj7
 ```column-settings
 Number of Columns: 2
@@ -10,6 +9,7 @@ Largest Column: standard
 ```
 integer
 float
+complex
 
 string
 list
@@ -17,7 +17,6 @@ dictionary
 boolean
 None
 
-complex
 tuple
 set
 frozenset
@@ -30,6 +29,7 @@ frozenset
 ```
 number
 
+bigint
 
 string
 array
@@ -38,7 +38,6 @@ boolean
 null
 
 undefined
-bigint
 symbol
 set
 map
@@ -46,8 +45,5 @@ weakmap
 weakset
 ```
 --- end-multi-column
-
-
-
 
 

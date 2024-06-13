@@ -1,0 +1,2 @@
+- Inside django templates we can write python code.
+- Django templates also called DTL-Django Template Language

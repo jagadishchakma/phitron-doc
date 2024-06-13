@@ -1,0 +1,8 @@
+- ### Authentication
+- Authentication is the process of verifying the identity of  a user or entity. It involves validating the credentials provided by the user or entity.
+- The goal of authentication is to ensure that authorized users or entities can access a resource or perform a specific action.
+
+
+- ### Authorization
+- Authorization, on the other hand, is the process of granting or denying access to a resource or a service based on the authenticated user or entity's permissions or piviliges.
+- This is typically done by comparing the authenticated user or entity's credentials against a set of access control policies or rules.

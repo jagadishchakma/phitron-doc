@@ -1,0 +1,1 @@
+- Just use CDN links to connect bootstrap

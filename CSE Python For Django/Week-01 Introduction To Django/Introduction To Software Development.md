@@ -1,0 +1,12 @@
+ - Software development are two types:
+	 - App development
+	 - Web development
+- Software development are two most important things:
+	- request
+		- GET
+		- POST
+		- DELETE
+		- UPDATE
+	- response
+- CRUD Operations
+- 
